@@ -1,1 +1,4 @@
-# html-css-bootstrap-dio
+#Desafio de projeto - DIO
+
+
+recriação da interface netflix responsiva. 
